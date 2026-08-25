@@ -80,10 +80,10 @@ Sou focado em resolução de problemas por meio do código e da análise de dado
 
 ### 📊 Estatísticas no GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipibuff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipibuff&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=filipibuff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipibuff&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
+</p>
 
 ---
 
